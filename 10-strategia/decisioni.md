@@ -9,3 +9,5 @@ Una riga per decisione. Formato: data — decisione — motivazione.
 - 2026-07-13 — Logo scelto: wordmark "ReThink" (verde #1e7a4f + blu navy) con freccia che parte dalla "e"; variante "ReThink Tech lab".
 - 2026-07-13 — Target affinato: piccoli imprenditori seriali (chi avvia molte attività) — bisogno di velocità, tracciamento e consigli di crescita. La difendibilità puntata sui dati proprietari accumulati e sul layer che unisce le N attività dello stesso imprenditore.
 - 2026-07-13 — In corso: validazione sul campo con la domanda "Se avessi un assistente che sa tutto della tua azienda, la prima cosa che gli faresti fare quale sarebbe?" — raccogliere 3+ risposte prima di costruire.
+- 2026-07-14 — Registrato prodotto Segretaria AaaS (repo ReThinkSegretary): multi-tenant WhatsApp/voce, in produzione, 0 clienti reali, 2 demo. La sua knowledge base (8 doc/cliente) è la prima istanza concreta del Company Gospel. Collo di bottiglia ora COMMERCIALE, non tecnico.
+- 2026-07-14 — Raccomandazione su escalation: notificare il TITOLARE (noi in copia solo primi 30 gg), per non ricadere nel presidio manuale = trappola Agency. Presidio nostro solo come premium a pagamento.
